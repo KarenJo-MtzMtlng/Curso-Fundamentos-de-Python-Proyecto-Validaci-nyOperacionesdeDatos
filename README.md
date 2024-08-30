@@ -1,6 +1,7 @@
 Este repositorio está conformado por dos programas en Python que realizan las siguientes funciones:
 
 -Calculadora de Longitud de Palabras: Este programa mide la longitud de una palabra ingresada por el usuario. Si la palabra tiene entre 4 y 8 letras, se considera válida. De lo contrario, el programa indica cuántas letras faltan o sobran y solicita una nueva palabra hasta que se ingrese una válida.
+
 -Identificadora de Cuadrante: Este programa determina en cuál de los cuatro cuadrantes del plano cartesiano se encuentra un punto dado por el usuario, en función de las coordenadas X e Y ingresadas.
 
 Al iniciar la Calculadora de Longitud de Palabras, se muestra un mensaje de bienvenida. Luego, el usuario ingresa una palabra, y el programa calcula su longitud. Dependiendo del resultado:
